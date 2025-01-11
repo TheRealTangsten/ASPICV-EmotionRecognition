@@ -1,0 +1,2 @@
+# ASPICV-EmotionRecognition
+Proiect ASPICV
